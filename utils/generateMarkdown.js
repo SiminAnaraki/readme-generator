@@ -41,8 +41,8 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [License](#license)
   - [Contributing](#contributing)
-  - [Tests](#description)
-  - [Questions](#description)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 ## Installation
   ${data.installation}
@@ -60,7 +60,7 @@ This project is licensed under the ${data.license} License.
   ${data.tests}
 
 ## Questions
-[My github](https://github.com/${data.githubUsername} "Google's Homepage")
+[My github](https://github.com/${data.githubUsername} "github page")
 
 If you have any questions, please don't hesitate to ask.[${data.email}](mailto:${data.email})
 `;
