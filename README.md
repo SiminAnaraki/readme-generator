@@ -28,6 +28,6 @@ This project is licensed under the MIT License License.
   
 
 ## Questions
-[My github](https://github.com/SiminAnaraki "Google's Homepage")
+[My Github](https://github.com/SiminAnaraki "github page")
 
 If you have any questions, please don't hesitate to ask.[simin.anaraki@gmail.com](mailto:simin.anaraki@gmail.com)
